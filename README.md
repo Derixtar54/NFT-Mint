@@ -1,1 +1,1 @@
-# Self-NFT
+Deployed the  minted NFT smartcontract with the help of ERC721 standards on Goerli testnet. Images are taken from IPFS to mint NFTs . It is transferable means can be transferred from owners account to receivers account with public address.
