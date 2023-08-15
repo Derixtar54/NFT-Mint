@@ -2,15 +2,15 @@ This is a smart contract for minting non-fungible tokens (NFTs). It inherits fro
 
 The contract can be used to mint NFTs for a variety of purposes, such as:
 
-1.Creating digital collectibles, such as trading cards or artwork.
+1->Creating digital collectibles, such as trading cards or artwork.
 
-2.Representing ownership of physical assets, such as real estate or cars.
+2->Representing ownership of physical assets, such as real estate or cars.
 
-3.Gamifying the user experience, such as by rewarding players with NFTs for completing challenges.
+3->Gamifying the user experience, such as by rewarding players with NFTs for completing challenges.
 
-4.Securing access to exclusive content or events.
+4->Securing access to exclusive content or events.
 
-Here is a real-world use case for the above code:
+*Here is a real-world use case for the above code:
 
 ->A company that creates digital trading cards could use this code to mint new cards and distribute them to their users. The cards could be unique or limited edition, and they could be traded or sold on a marketplace. The 
   company could also use the code to track the ownership of the cards and prevent counterfeiting.
