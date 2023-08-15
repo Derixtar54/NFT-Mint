@@ -21,9 +21,15 @@ Here is a real-world use case for the above code:
 Here are the steps on how to use Hardhat and OpenZeppelin to deploy the above code:
 
 1->Install Hardhat and OpenZeppelin.
+
 2->Create a new Hardhat project.
+
 3->Add the OpenZeppelin contracts to your project.
+
 4->Write the code for your NFT contract.
+
 5->Deploy your contract to a testnet.
+
 6->Test your contract.
-7->Once you have deployed your contract, you can use it to mint NFTs and interact with them.
+
+->Once you have deployed your contract, you can use it to mint NFTs and interact with them.
